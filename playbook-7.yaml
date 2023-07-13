@@ -79,7 +79,7 @@
      
    - name : Copy war file
      copy:
-        src: addressbook (11).war
+        src: calculator-webapp-1.0-SNAPSHOT (1).war
         dest: /opt/apache-tomcat-9.0.76/webapps/addressbook (8).war
         
      notify: 
